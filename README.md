@@ -1,4 +1,4 @@
-# Hey, I'm Zidane Innis <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="30px">
+# Hey, I'm Zidane Innis<img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif"  width="100px"  >
 
 
 
