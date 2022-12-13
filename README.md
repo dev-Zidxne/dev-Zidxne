@@ -20,7 +20,9 @@ List any relevant work experience or projects you have worked on.
 
 Technologies & frameworks:
 
-<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="scss" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> 
+<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img alt="React.Js" src="https://img.shields.io/badge/react-1867c0?style=for-the-badge&logo=react&logoColor=fff" style="border-radius: 50%;" />
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> 
 - NextJS
 - Typescript
 <!---
