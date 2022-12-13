@@ -30,6 +30,9 @@ Technologies & frameworks:
 
 ## 📫 Connect With Me 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zidane-innis/)
+[<img align="left" alt="Zidane Website" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white" />](https://devzidane.vercel.app/#contact)
+
+
 
 
 <br>
