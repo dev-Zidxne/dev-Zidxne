@@ -23,8 +23,14 @@ Technologies & frameworks:
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img alt="React.Js" src="https://img.shields.io/badge/react-1867c0?style=for-the-badge&logo=react&logoColor=fff" style="border-radius: 50%;" />
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> 
-- NextJS
-- Typescript
+<br>
+
+## 📫 Connect With Me 
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devjasonclarke/)
+
+
+<br>
+<br>
 <!---
 zidxne1/zidxne1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
