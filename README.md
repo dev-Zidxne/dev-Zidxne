@@ -7,10 +7,10 @@ Software engineer skilled professionally in the development of user interfaces u
 Proficient at creating highly interactive and engaging user interfaces that are optimized for performance and user experience. 
 
 ## Portfolio
- <br > 
-<p>Portfolio/personal website:</p> <img style="flex" alt="Zidane Website" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/>
+ <br style="flex" > 
+<p>Portfolio/personal website:</p> <a href="https://devzidane.vercel.app/"><img alt="Zidane Website" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
 
-<p>Quick link to demo projects:</p> <img align="left" alt="Zidane Website" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-flat&logo=nextdotjs&logoColor=white" />
+<p>Quick link to demo projects:</p><a href="https://devzidane.vercel.app/#projects"><img alt="Zidane Website" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
 </br>
 
 ## Experience
