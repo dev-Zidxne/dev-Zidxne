@@ -19,9 +19,9 @@ As a React engineer with 4 years of experience, I have had the opportunity to wo
 ## Technologies
 
 Technologies & frameworks:
-
-<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img alt="React.Js" src="https://img.shields.io/badge/react-1867c0?style=for-the-badge&logo=react&logoColor=fff" style="border-radius: 50%;" />
+<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img align="left" alt="next.js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> 
 <br>
 
