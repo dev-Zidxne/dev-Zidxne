@@ -1,4 +1,7 @@
-# Hey, I'm Zidane Innis 🛸
+# Hey, I'm Zidane Innis <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="30px">
+
+
+
 
 Software engineer skilled professionally in the development of user interfaces using React. Proficient in other technologies commonly used in frontend development, such as HTML, CSS, and JavaScript. 
 Proficient at creating highly interactive and engaging user interfaces that are optimized for performance and user experience. 
