@@ -17,13 +17,13 @@ Quick link to demo projects: https://devzidane.vercel.app/#projects
 As a React engineer with 4 years of experience, I have had the opportunity to work on a wide range of projects, using my skills and knowledge to create high-quality user interfaces that are both functional and visually appealing.
 
 ## Technologies
-
 Technologies & frameworks:
+<br style="flex">
 <img alt="React.Js" src="https://img.shields.io/badge/react-1867c0?style=for-the-badge&logo=react&logoColor=fff" style="border-radius: 50%;" />
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img align="left" alt="next.js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> 
-<br>
+</br>
 
 ## 📫 Connect With Me 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zidane-innis/)
