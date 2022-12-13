@@ -8,7 +8,7 @@ Proficient at creating highly interactive and engaging user interfaces that are 
 
 ## Portfolio
 
-Portfolio/personal website: https://devzidane.vercel.app/
+Portfolio/personal website: [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white" />]
 
 Quick link to demo projects: https://devzidane.vercel.app/#projects
 
