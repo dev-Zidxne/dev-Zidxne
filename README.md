@@ -14,10 +14,7 @@ Quick link to demo projects: https://devzidane.vercel.app/#projects
 
 ## Experience
 
-List any relevant work experience or projects you have worked on.
-
-- Project 1: Description of the project and your role in it.
-- Project 2: Description of the project and your role in it.
+As a React engineer with 4 years of experience, I have had the opportunity to work on a wide range of projects, using my skills and knowledge to create high-quality user interfaces that are both functional and visually appealing.
 
 ## Technologies
 
