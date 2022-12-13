@@ -26,7 +26,7 @@ Technologies & frameworks:
 <br>
 
 ## 📫 Connect With Me 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devjasonclarke/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zidane-innis/)
 
 
 <br>
