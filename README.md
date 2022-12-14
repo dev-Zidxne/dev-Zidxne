@@ -1,4 +1,4 @@
-# <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="80px">Hey, I'm Zidane Innis.
+# <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="80px" style="border-radius: 10px;">Hey, I'm Zidane Innis.
 
 
 
@@ -23,14 +23,14 @@ Technologies & frameworks:
 <img alt="React.Js" src="https://img.shields.io/badge/REACT-1867c0?style=for-the-flat&logo=react&logoColor=fff"/>
 <img alt="javascript" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-flat&logo=javascript&logoColor=000" /> 
 <img  alt="next.js" src="https://img.shields.io/badge/NEXT.JS-black?style=for-the-flat&logo=nextdotjs&logoColor=white" />
- <img alt="firebase" src="https://img.shields.io/badge/FIREBASE-black?style=for-the-flat&logo=firebase&logoColor=ffca28" />
+ <img alt="firebase"  src="https://img.shields.io/badge/FIREBASE-black?style=for-the-badge&logo=firebase&logoColor=ffca28" />
 <img alt="typescript" src="https://img.shields.io/badge/TYPESCRIPT-1867c0?style=for-the-flat&logo=typescript&logoColor=fff" />
 
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-flat&logo=html5&logoColor=white" /> 
 </br>
 
 ## 📫 Connect With Me 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white" target="_blank"  />](https://www.linkedin.com/in/zidane-innis/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white"  />](https://www.linkedin.com/in/zidane-innis/)
 [<img align="left" target="_blank" alt="Zidane Website" target="_blank" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white" />](https://devzidane.vercel.app/#contact)
 
 
