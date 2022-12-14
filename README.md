@@ -13,9 +13,7 @@ Proficient at creating highly interactive and engaging user interfaces that are 
 <p>Quick link to demo projects:</p><a href="https://devzidane.vercel.app/#projects" target="_blank"><img alt="Zidane Website" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
 </br>
 
-## Experience
 
-As a React engineer with 4 years of experience, I have had the opportunity to work on a wide range of projects, using my skills and knowledge to create high-quality user interfaces that are both functional and visually appealing.
 
 ## Technologies
 Technologies & frameworks:
