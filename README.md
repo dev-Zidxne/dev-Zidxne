@@ -8,9 +8,9 @@ Proficient at creating highly interactive and engaging user interfaces that are 
 
 ## Portfolio
  <br style="flex" > 
-<p>Portfolio/personal website:</p> <a href="https://devzidane.vercel.app/"><img alt="Zidane Website" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
+<p>Portfolio/personal website:</p> <a href="https://devzidane.vercel.app/"><img alt="Zidane Website" target="_blank" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
 
-<p>Quick link to demo projects:</p><a href="https://devzidane.vercel.app/#projects"><img alt="Zidane Website" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
+<p>Quick link to demo projects:</p><a href="https://devzidane.vercel.app/#projects" target="_blank"><img alt="Zidane Website" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
 </br>
 
 ## Experience
@@ -31,7 +31,7 @@ Technologies & frameworks:
 
 ## 📫 Connect With Me 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zidane-innis/)
-[<img align="left" alt="Zidane Website" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white" />](https://devzidane.vercel.app/#contact)
+[<img align="left" target="_blank" alt="Zidane Website" target="_blank" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white" />](https://devzidane.vercel.app/#contact)
 
 
 
