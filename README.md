@@ -7,7 +7,9 @@ Proficient at creating highly interactive and engaging user interfaces that are 
  <br style="flex" > 
 <p>Portfolio/personal website:</p> <a href="https://devzidane.vercel.app/" target="_blank" ><img alt="Zidane Website" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
 <p>Link to demo projects:</p><a href="https://devzidane.vercel.app/#projects" target="_blank"><img alt="Zidane Website" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
-</br>
+</br> 
+ 
+ 
 ## Technologies
 Technologies & frameworks:
 <br style="flex">
