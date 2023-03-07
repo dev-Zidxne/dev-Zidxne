@@ -3,6 +3,8 @@
 Software engineer skilled professionally in the development of user interfaces using React. Proficient in other technologies commonly used in frontend development, such as HTML, CSS, and JavaScript. 
 Proficient at creating highly interactive and engaging user interfaces that are optimized for performance and user experience. 
 
+<img src="https://github-readme-stats.vercel.app/api?username=zidxne1&count_private=true&show_icons=true&locale=en" alt="zidxne1" />
+
 ## Overview
  <br style="flex" > 
 <p>Portfolio/personal website:</p> <a href="https://devzidane.vercel.app/" target="_blank" ><img alt="Zidane Website" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white"/> <a/>
