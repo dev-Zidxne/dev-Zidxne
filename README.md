@@ -5,10 +5,10 @@ Proficient at creating highly interactive and engaging user interfaces that are 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidxne1&" alt="zidxne1" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=zidxne1&count_private=true&show_icons=true&locale=en" alt="zidxne1" />
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zidxne1&show_icons=true&locale=en&layout=compact" alt="zidxne1" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=zidxne1&count_private=true&show_icons=true&locale=en" alt="zidxne1" />
- 
  [![trophy](https://github-profile-trophy.vercel.app/?username=zidxne1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Overview
