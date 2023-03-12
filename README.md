@@ -17,7 +17,7 @@ Proficient at creating highly interactive and engaging user interfaces that are 
 </br> 
  
  
-## Technologie
+## Technologies
 Technologies & frameworks:
 <br style="flex">
 <img alt="React.Js" src="https://img.shields.io/badge/REACT-1867c0?style=for-the-flat&logo=react&logoColor=fff"/>
