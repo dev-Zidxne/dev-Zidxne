@@ -17,7 +17,6 @@
  
  
 ## Technologies
-Technologies & frameworks:
 <br style="flex">
 <img alt="React.Js" src="https://img.shields.io/badge/REACT-1867c0?style=for-the-flat&logo=react&logoColor=fff"/>
 <img alt="javascript" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-flat&logo=javascript&logoColor=000" /> 
