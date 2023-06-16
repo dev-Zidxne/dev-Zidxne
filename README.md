@@ -1,7 +1,6 @@
 # <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="80px" style="border-radius: 50%;">
 
-Software engineer skilled professionally in the development of user interfaces using React. Proficient in other technologies commonly used in frontend development, such as HTML, CSS, and JavaScript. 
-Proficient at creating highly interactive and engaging user interfaces that are optimized for performance and user experience. 
+
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidxne1&" alt="zidxne1" /></p>
