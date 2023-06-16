@@ -27,7 +27,7 @@
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-flat&logo=html5&logoColor=white" /> 
 </br>
 
-## 📫 Connect With Me 
+## 📫 Connect 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white"  />](https://www.linkedin.com/in/zidane-innis/)
 [<img align="left" target="_blank" alt="Zidane Website" target="_blank" src="https://img.shields.io/badge/WEBSITE-black?style=for-the-flat&logo=nextdotjs&logoColor=white" />](https://devzidane.vercel.app/#contact)
 
