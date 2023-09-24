@@ -5,6 +5,8 @@
 - JavaScript
 - TypeScript
 - NodeJS
+- MongoDB
+- Express
 - AWS
 - NextJS
 - GraphQL/Apollo
