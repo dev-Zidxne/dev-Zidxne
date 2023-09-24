@@ -2,7 +2,6 @@
 
 ## Technologies
 - React.js
-- JavaScript
 - TypeScript
 - NodeJS
 - MongoDB
