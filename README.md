@@ -12,7 +12,7 @@ Software Engineer
 - 6+ years of software development experience
 - Expertise in building user-friendly, secure, and scalable interfaces and UI systems
 - Strong understanding of React best practices, optimizations, and profiling
-- Experience with TypeScript, GraphQL/Apollo, and REST
+- Experience with TypeScript, GraphQL/Apollo, and NodeJS
 - Proficient in Node.js and experienced in working with large codebase and e2e testing like Cypress
 ## Goals
 - Contribute to improving the user experience on the web and bringing innovative ideas to life
