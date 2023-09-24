@@ -1,11 +1,12 @@
-Software Engineer
+# Software Engineer
 
-## Skills
+## Technologies
 - React.js
 - JavaScript
 - TypeScript
-- Node.js
+- NodeJS
 - AWS
+- NextJS
 - GraphQL/Apollo
 ## Experience
 - 6+ years of software development experience
