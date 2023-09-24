@@ -6,7 +6,6 @@ Software Engineer
 - TypeScript
 - Node.js
 - AWS
-- TypeScript
 - GraphQL/Apollo
 ## Experience
 - 6+ years of software development experience
