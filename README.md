@@ -15,7 +15,7 @@ Software Engineer
 - Experience with TypeScript, GraphQL/Apollo, and REST
 - Proficient in Node.js and experienced in working with large codebase and e2e testing like Cypress
 ## Goals
-- Contribute to improving the user experience in decentralized finance
+- Contribute to improving the user experience and bringing innovative ideas to life
 - Stay up-to-date with the latest technologies and best practices in frontend development
 - Collaborate with other developers, designers, and product teams to build top-tier products
 ## Contact
