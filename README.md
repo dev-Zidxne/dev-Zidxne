@@ -9,7 +9,6 @@
 - Express
 - AWS
 - NextJS
-- GraphQL/Apollo
 ## Experience
 - 6+ years of software development experience
 - Expertise in building user-friendly, secure, and scalable interfaces and UI systems
