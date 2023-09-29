@@ -9,7 +9,6 @@
 - AWS
 - NextJS
 ## Experience
-- 5+ years of software development experience
 - Expertise in building user-friendly, secure, and scalable interfaces and UI systems
 - Strong understanding of React best practices, optimizations, and profiling
 - Experience with TypeScript, GraphQL/Apollo, and NodeJS
