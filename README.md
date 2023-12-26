@@ -29,5 +29,5 @@
 - Email: [zidaneinnis@gmail.com]
 - LinkedIn: [[My LinkedIn](https://www.linkedin.com/in/zidane-innis/)]
 - Website: [[My Website](https://devzidane.vercel.app/)]
-- Blog: [[My Website](https://devzidane.vercel.app/blog)]
+- Blog: [[My Blog](https://devzidane.vercel.app/blog)]
 
