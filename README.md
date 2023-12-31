@@ -1,4 +1,4 @@
-## 🌎Software Engineer 
+## 🌎Web Developer 
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://abdellahslimani.com)
 <h1 align="center">Hi 👋, I'm Zidane Innis</h1>
 <h3 align="center">A passionate frontend developer</h3>
