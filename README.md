@@ -1,7 +1,6 @@
 ## 🌎Web Developer 
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://abdellahslimani.com)
 <h1 align="center">Hi 👋, I'm Zidane Innis.</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A  frontend developer</h3>
 <h3 align="center">Thanks for stopping by !</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zidane-innis/">
